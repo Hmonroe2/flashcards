@@ -34,5 +34,6 @@
   - Hunter Monroe: https://github.com/Hmonroe2
 ## Challenges 
   -  In this project a major challenge for me was making an application only using the console/terminal. It was difficult at first to view the data I was trying to pass into the project. I was able to overcome this challenge by using console logs and strategic testing.
+  - ![Project calendar] (https://trello.com/b/HjQtzas6/flash-cards)
 ## Project Specs
  - [Turing](https://frontend.turing.edu/projects/flash-cards.html)
